@@ -1,0 +1,210 @@
+State,City,Hospital name,Address,Pincode,Contact number,Address,Status geocode,Formatted address,Latitude,Longitude,Type,Street,Postal code,City,Country,Region
+Tamil Nadu,Ambattur,K G J Hospital,NO.14 & 129 Railway Station Road Korattur chennai,600080,8695966995,NO.14 & 129 Railway Station Road Korattur chennai,"Ok, partial match","Korattur Railway Station Rd, Korattur, Chennai, Tamil Nadu 600080, India",13.1134348,80.1854774,route,Korattur Railway Station Road,600080,Chennai,India,Tamil Nadu
+Tamil Nadu,Ambattur,Mmrv Hospital,No 5/PC 2 Bharathi salai,600037,04426534121,No 5/PC 2 Bharathi salai,"Ok, partial match","2, Bharathi Salai, Andavar Nagar, Ramapuram, Chennai, Tamil Nadu 600089, India",13.030972,80.183082,premise,Bharathi Salai,600089,Chennai,India,Tamil Nadu
+Tamil Nadu,Ambattur,Sri Balaji Hospitals,318/3B2 Chennai Bypass Service Road,600037,9150779806,318/3B2 Chennai Bypass Service Road,"Ok, partial match","318/1A5, Chennai Bypass Rd, Nolambur, Ambattur Industrial Estate, Chennai, Tamil Nadu 600037, India",13.077496,80.1607309,street_address,Chennai Bypass Road,600037,Chennai,India,Tamil Nadu
+Tamil Nadu,Aruppukkottai,City Hospital,"Railway Feede Road, Azeen Nagar, Aruppukottai, Tamilnadu 626101",626101,9751673000,"Railway Feede Road, Azeen Nagar, Aruppukottai, Tamilnadu 626101","Ok, partial match","Railway Feeder Rd, Aruppukkottai, Tamil Nadu 626101, India",9.5179966,78.1006173,route,Railway Feeder Road,626101,Aruppukkottai,India,Tamil Nadu
+Tamil Nadu,Avadi,Chennai Health Foundation,No:2B2 Aishwarya Nagar M.T.H Road Thirumullaivoyal.,600062,8438282144,No:2B2 Aishwarya Nagar M.T.H Road Thirumullaivoyal.,"Ok, partial match","Madras Thiruvallur High Rd, Thirumullaivoyal, Chennai, Tamil Nadu, India",13.1251461,80.1425601,route,Madras Thiruvallur High Road,,Chennai,India,Tamil Nadu
+Tamil Nadu,Batlagunda,Leonard Hospital,"Dindigal main Road,Batlagundu",624202,04543264254,"Dindigal main Road,Batlagundu","Ok, partial match","Batlagundu, Tamil Nadu 624202, India",10.1637601,77.7590882,"locality, political",,624202,Batlagundu,India,Tamil Nadu
+Tamil Nadu,Bodinayakanur,Keerthi Shree Hospital,No 48H RTO Office Road Bodina Yakanu theni district,625513,8344053322,No 48H RTO Office Road Bodina Yakanu theni district,"Ok, partial match","Theni, Tamil Nadu, India",9.9329832,77.4701972,"administrative_area_level_3, political",,,,India,Tamil Nadu
+Tamil Nadu,Chengalpattu,J J Hospital,55 DR.Varaparajanar Street,603001,04427426669,55 DR.Varaparajanar Street,No result,,,,,,,,,
+Tamil Nadu,Chengalpattu,Jsp Hospitals Pvt. Ltd,"No.70, Kanchipuram High Road,",603002,04427426829,"No.70, Kanchipuram High Road,",Ok,"70, Kanchipuram High Rd, near JSP Hospital, J C K Nagar, Chengalpattu, Tamil Nadu 603101, India",12.6973488,79.9725228,premise,Kanchipuram High Road,603101,Chengalpattu,India,Tamil Nadu
+Tamil Nadu,Chengalpattu,Kathir Memorial Hospital Pvt Ltd,No.390 Melakottaiyur Kelambakkam Main road Melakkottaiyur  Chinglepet,600127,7695959576,No.390 Melakottaiyur Kelambakkam Main road Melakkottaiyur Chinglepet,"Ok, partial match","Kelambakkam Main Rd, Tamil Nadu 603103, India",12.7879378,80.2209227,route,Kelambakkam Main Road,603103,,India,Tamil Nadu
+Tamil Nadu,Chengalpattu,One Health Hospital,No 174/4B GST Road Vandalur Chengalpattu,603203,04422751111,No 174/4B GST Road Vandalur Chengalpattu,Ok,"174, Grand Southern Trunk Rd, Kilambakkam, Urapakkam, Vandalur, Peerakankaranai, Tamil Nadu 600048, India",12.8764053,80.0795306,premise,Grand Southern Trunk Road,600048,Vandalur,India,Tamil Nadu
+Tamil Nadu,Chengalpattu,Sai Fertility Centre And Hospital,"43/21, Devarajanar Street, Vedhachalam
+Nagar, Behind New Bus Stand, Chengalpattu",603001,04427424444,"43/21, Devarajanar Street, Vedhachalam
+Nagar, Behind New Bus Stand, Chengalpattu",Ok,"43, Devarajanar St, Vedachalam Nagar, Gokulapuram, Chengalpattu, Tamil Nadu 603001, India",12.686809,79.9804689,street_address,Devarajanar Street,603001,Gokulapuram,India,Tamil Nadu
+Tamil Nadu,Chengalpattu,Supreme Speciality Hospitals,#1/56 OMR Main Road Padur Chennai,603103,04467453535,#1/56 OMR Main Road Padur Chennai,"Ok, partial match","Padur, Tamil Nadu, India",12.8076844,80.2258115,"locality, political",,,Padur,India,Tamil Nadu
+Tamil Nadu,Chennai,A.N.N.Hospital,"Kesavardhini Bus Stop, Valasaravakkam",600087,04424869300,"Kesavardhini Bus Stop, Valasaravakkam","Ok, partial match","Kesavardhini, Chowdry Nagar Main Rd, Janaki Nagar, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087, India",13.0421578,80.1805052,"establishment, point_of_interest, transit_station",Chowdry Nagar Main Road,600087,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Anbu Hospital Private Limited,No 18/4 Sashinagar Main Road Velachery,600042,04422591987,No 18/4 Sashinagar Main Road Velachery,"Ok, partial match","Dandeeshwaram Main Rd, Velachery, Chennai, Tamil Nadu 600042, India",12.9825532,80.2235813,route,Dandeeshwaram Main Road,600042,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Appasamy Medicare Centre,No. 23 Friend'S Avene,600106,9840344146,No. 23 Friend'S Avene,No result,,,,,,,,,
+Tamil Nadu,Chennai,B.M.Hospital,"36, 5Th Main Rd, Thillai Ganga Nagar",600061,04448570277,"36, 5Th Main Rd, Thillai Ganga Nagar",Ok,"36, Fifth Main Rd, Thillaiganga Nagar, Pazavanthangal, Chennai, Tamil Nadu 600114, India",12.9888207,80.1900892,premise,Fifth Main Road,600114,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,B.R.S.Hospital Pvt Ltd,"No.28, Cathedral Garden Rd, Nungambakkam, Chennai",600034,04461434200,"No.28, Cathedral Garden Rd, Nungambakkam, Chennai",Ok,"28, Cathedral Garden Rd, Badrikari, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",13.0519656,80.2454434,street_address,Cathedral Garden Road,600034,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Balaji Hospital Pvt Ltd,"No 01, Lawyer, Jaganathan Street Guindy, Chennai",600032,7550052552,"No 01, Lawyer, Jaganathan Street Guindy, Chennai",Ok,"1, Lawyer Jaganathan St, Guindy, Chennai, Tamil Nadu 600032, India",13.0074117,80.2060791,subpremise,Lawyer Jaganathan Street,600032,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Bhaarath Medical College And Hospital,"No.173,Agharam Rd,Secaiyur,Tambaram,Chengalpattu",600073,04461116222,"No.173,Agharam Rd,Secaiyur,Tambaram,Chengalpattu","Ok, partial match","#173, Agaram Main Rd., Selaiyur, Chennai, Tamil Nadu 600073, India",12.908068,80.1419425,premise,Agaram Main Road,600073,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Bharathi Rajaa Hospital And Research Centre Pvt Ltd,"20, G. N. Chetty Rd, T. Nagar",600017,04462116211,"20, G. N. Chetty Rd, T. Nagar",Ok,"20, Gopathi Narayanaswami Chetty Rd, Satyamurthy Nagar, T. Nagar, Chennai, Tamil Nadu 600017, India",13.048103,80.245059,street_address,Gopathi Narayanaswami Chetty Road,600017,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Billroth Hospital Ltd,"43, Lakshmi Talkies Road, Shenoy Naga Chennai",600030,04442921777,"43, Lakshmi Talkies Road, Shenoy Naga Chennai","Ok, partial match","43, Lakshmi Talkies Rd, Shenoy Nagar, Chennai, Tamil Nadu 600030, India",13.0761928,80.2271536,premise,Lakshmi Talkies Road,600030,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Billroth Hospitals R A Puram,"No. 52, Second Main Road, Raja Annamalai Puram",600028,9342279892,"No. 52, Second Main Road, Raja Annamalai Puram","2 found, use single geocode.","53/52, Second Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India",13.008891,80.253423,street_address,Second Main Road,600020,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Bm Orthopaedic Hospital,"#3/157, Mth Road , Ambattur, Near Ambattur Bus Stop & Bharath Petroleum",600053,04426572644,"#3/157, Mth Road , Ambattur, Near Ambattur Bus Stop & Bharath Petroleum","Ok, partial match","MTH Rd, Chinmaya Nagar Stage 1, Ram Nagar, Ambattur, Chennai, Tamil Nadu 600053, India",13.1223543,80.1471311,route,MTH Road,600053,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,C.S.I.Kalyani General Hospital,"#15, Dr. Radhakrishna Salai, Mylapore, Chennai",600004,"044 -
+28476433/28473306/284
+75101","#15, Dr. Radhakrishna Salai, Mylapore, Chennai","Ok, partial match","Dr Radha Krishnan Salai, Mylapore, Chennai, Tamil Nadu, India",13.0442994,80.2697777,route,Doctor Radha Krishnan Salai,,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Chennai Meenakshi Multispeciality Hospita Ltd,"Old No.148, New No.72, Luz Church Rd, Mylapore, Chennai",600004,9841405000/9841736000,"Old No.148, New No.72, Luz Church Rd, Mylapore, Chennai","Ok, partial match","72, Luz Church Rd, East Abhiramapuram, Mylapore, Chennai, Tamil Nadu 600004, India",13.0376054,80.261887,street_address,Luz Church Road,600004,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Chennai National Hospital,"No-12, Jaffer Serang Street, Second Line Beach Road, Parrys, Chennai",600001,9445908866,"No-12, Jaffer Serang Street, Second Line Beach Road, Parrys, Chennai","2 found, use single geocode.","Serang, Serang City, Banten, Indonesia",-6.1169309,106.1538519,"locality, political",,,Serang,Indonesia,Banten
+Tamil Nadu,Chennai,Chettinad Super Speciality Hospital,"Rajiv Gandhi, Salai",603103,04447411000,"Rajiv Gandhi, Salai","2 found, use single geocode.","SH 49A, Tamil Nadu, India",12.8006823,80.2234535,route,State Highway 49A,,,India,Tamil Nadu
+Tamil Nadu,Chennai,Christudas Orthopaedic Speciality Hospital,"No.9 Duraiswamy Nagar, I A F Road, Near Mcc, East Tambaram",600059,"9884600061/0442239157
+6/22391577/22391578/","No.9 Duraiswamy Nagar, I A F Road, Near Mcc, East Tambaram","Ok, partial match","IAF Rd, East Tambaram, Tambaram, Chennai, Tamil Nadu, India",12.9114661,80.136372,route,IAF Road,,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Dr Rela Institute And Medical Centre ( A Un   Of Jr Super Speciality Hospitals Pvt Ltd ),"No 7,Clc Works Road,Chronepet",600044,9384681764,"No 7,Clc Works Road,Chronepet","Ok, partial match","7, CLC Works Rd, Pallavapuram, New Colony, Chromepet, Chennai, Tamil Nadu 600044, India",12.953034,80.1397075,street_address,CLC Works Road,600044,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Fortis Healthcare Limited,No-23/1 Arcot Road Vadapalani Chennai,0.600026,04440204444,No-23/1 Arcot Road Vadapalani Chennai,Ok,"23, Arcot Rd, Virugambakkam, Chennai, Tamil Nadu 600093, India",13.0484084,80.2053119,street_address,Arcot Road,600093,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Fortis Malar Hospital Ltd,"No. 52, First Main Road, Gandhi Nagar , Adyar",600020,04442892222,"No. 52, First Main Road, Gandhi Nagar , Adyar",Ok,"52, 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India",13.0101544,80.258616,street_address,1st Main Road,600020,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Frontier Lifeline Hospital,"No-R-30-C, Ambattur Industrial Estate R Annanagar, West Extension Chennai",600101,9445288222,"No-R-30-C, Ambattur Industrial Estate R Annanagar, West Extension Chennai","Ok, partial match","r, 30-29, Ambattur Industrial Estate Rd, Mogappair, Chennai, Tamil Nadu 600058, India",13.0900162,80.1714959,subpremise,Ambattur Industrial Estate Road,600058,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Gem Hospital & Research Centre Pvt.Ltd,"227/2C2,228/2A2 ,  Mgr Road ,
+Perungudi",600096,04461666666/61666603,"227/2C2,228/2A2 , Mgr Road ,
+Perungudi","Ok, partial match","228, MGR Main Rd, Kodandarama Nagar, Perungudi, Chennai, Tamil Nadu 600078, India",12.9751012,80.2440328,street_address,MGR Main Road,600078,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Geri Care Hospital,"No.08 ,Dr.Nair Road,T.Nagar Vani Maha Behind",600017,04440614061,"No.08 ,Dr.Nair Road,T.Nagar Vani Maha Behind","Ok, partial match","8, Dr Nair Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017, India",13.0441274,80.2409009,street_address,Doctor Nair Road,600017,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Girishwari Hospital,"No. 19, K B Dhasan Road, Alwarpet",600018,8695228685,"No. 19, K B Dhasan Road, Alwarpet","Ok, partial match","19, KB Dasan Rd, Seetammal Colony, MIG Colony, Alwarpet, Chennai, Tamil Nadu 600018, India",13.0354379,80.2519144,street_address,KB Dasan Road,600018,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Global Hospitals,"439, Cheran Nagar, Perumbakkam",600100,9500008248,"439, Cheran Nagar, Perumbakkam",Ok,"439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu 600100, India",12.8978488,80.2061841,street_address,,600100,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Guduvanchery Medic Centre Private Limite,"No.-6, GST Road, Nandivaram,   d
+Guduvanchery, Chengalpet",603202,9094454647/7397758871,"No.-6, GST Road, Nandivaram, d
+Guduvanchery, Chengalpet","Ok, partial match","6, Grand Southern Trunk Rd, Mahalakshmi Nagar, Guduvancheri, Tamil Nadu 603202, India",12.8509516,80.0656353,street_address,Grand Southern Trunk Road,603202,Guduvancheri,India,Tamil Nadu
+Tamil Nadu,Chennai,Gunasekaran Hospitals Pvt Ltd,"No 1: Crescent Park Street,",600017,04424341055,"No 1: Crescent Park Street,",No result,,,,,,,,,
+Tamil Nadu,Chennai,Hindu Mission Health Services,"100 Feet Road, Near Eb Office, Hindu Colony, Nanganallur, Chennai, Tamil
+Nadu 600061",600061,7305540851,"100 Feet Road, Near Eb Office, Hindu Colony, Nanganallur, Chennai, Tamil
+Nadu 600061","2 found, use single geocode.","100 Feet Rd, Nanganallur, Chennai, Tamil Nadu 600061, India",12.9776,80.1873433,route,100 Feet Road,600061,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Hindu Mission Hospital,"103, GST Road, West Tambakam",600045,8754595006,"103, GST Road, West Tambakam",Ok,"103, Grand Southern Trunk Rd, opp. Hindu Mission Hospital, New Market, West Tambaram, Tambaram, Chennai, Tamil Nadu 600045, India",12.9238478,80.1139816,premise,Grand Southern Trunk Road,600045,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Hycare Superspeciality Hospital,"No. 37 , Razack Garden Road, Mmda Colony, Arumbakkam , Chennai",600106,9344833418,"No. 37 , Razack Garden Road, Mmda Colony, Arumbakkam , Chennai",Ok,"37, Razack Garden Ave, Razaak Garden, SBI Officers Colony, Arumbakkam, Chennai, Tamil Nadu 600106, India",13.0734658,80.2157328,street_address,Razack Garden Avenue,600106,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,K.H.M.Hospital,"Ab-14, 6Th Main Road Anna Nagar ,",600040,04426212218,"Ab-14, 6Th Main Road Anna Nagar ,","Ok, partial match","14, 6th Main Rd, Block R, Anna Nagar, Chennai, Tamil Nadu 600040, India",13.0917946,80.213362,premise,6th Main Road,600040,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Kauvery Hcg Cancer Centre Hospital (Hcg Group),"Mbc Tower,199/90, Luz Church Road, Alwarpet Junction, Mylapore",600004,04442042520,"Mbc Tower,199/90, Luz Church Road, Alwarpet Junction, Mylapore","2 found, use single geocode.","199, Luz Church Rd, Kapali Thottam, Mylapore, Chennai, Tamil Nadu 600004, India",13.0384867,80.2572727,street_address,Luz Church Road,600004,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Kauvery Hospital (A Unit Of Sri Kavery Medical Care Ltd),"No.81, T.T.K. Rd, Alwarpet",600018,04440006000,"No.81, T.T.K. Rd, Alwarpet",Ok,"81, TT Krishnamachari Rd, CIT Colony, Alwarpet, Chennai, Tamil Nadu 600018, India",13.0415358,80.2590845,premise,TT Krishnamachari Road,600018,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Kumaran Hospitals Pvt.Ltd,New No 214 Old No 869 Evr High Rd Kilpauk,600010,04442956777,New No 214 Old No 869 Evr High Rd Kilpauk,"Ok, partial match","869, EVR Rd, Egmore, Chennai, Tamil Nadu 600084, India",13.0788992,80.251905,street_address,EVR Road,600084,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Medway Medical Centre,"8/22, 4Th Cross Street, Trustpuram, Kodambakka",600024,04424734455,"8/22, 4Th Cross Street, Trustpuram, Kodambakka",Ok,"8/10-A, 4th Cross St, Bharatheeswarar Colony, Bharatheswarar Colony, Kodambakkam, Chennai, Tamil Nadu 600024, India",13.0570434,80.220607,premise,4th Cross Street,600024,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Mgm Health Care Pvt Ltd,"72 Nelson Manickam Road,Aminjikarai",600029,9384052404,"72 Nelson Manickam Road,Aminjikarai",Ok,"72, Nelson Manickam Rd, near Mehta Nagar, Railway Colony, Aminjikarai, Chennai, Tamil Nadu 600029, India",13.0677235,80.2270221,street_address,Nelson Manickam Road,600029,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Miot Hospital,"4/112, Mount Poonamalllee Road, Manapakkam",600089,044 -22492288,"4/112, Mount Poonamalllee Road, Manapakkam","Ok, partial match","4/112, Mount Poonamallee Rd, Sathya Nagar, Manapakkam, Chennai, Tamil Nadu 600089, India",13.0213295,80.1856227,street_address,Mount Poonamallee Road,600089,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Murugan Hospitals,"No-264/125, Kilpauk Garden Road",600010,"9710671620/0444644898
+9","No-264/125, Kilpauk Garden Road",Ok,"264-A, 264-A, Kilpauk Garden Road, Kilpauk, Chennai, Tamil Nadu 600010, India",13.0834183,80.2342134,street_address,Kilpauk Garden Road,600010,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Muthu Hospital,"No.-336, Paper mills road, Peranbur , Chennai",600011,7397310543,"No.-336, Paper mills road, Peranbur , Chennai",Ok,"465R+JRX, 336, Paper Mills Road, opp. Murasoli Maran Park, Bunder Garden, Perambur, Chennai, Tamil Nadu 600011, India",13.1091313,80.2421295,premise,Paper Mills Road,600011,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Muthu Hospital Enterprises Pvt Ltd,"105,Pulianthope High Road",600012,04443599416/43599417,"105,Pulianthope High Road",Ok,"105, Pulianthope High Road, Pattalam, Pulianthope, Chennai, Tamil Nadu 600012, India",13.0997129,80.2603343,street_address,Pulianthope High Road,600012,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Nichani Health Centre,"10 Arthoon Road, Royapuram, Chennai",600013,04425966540/25966499,"10 Arthoon Road, Royapuram, Chennai",Ok,"10, Arathoon Rd, Pudumanaikuppam, Royapuram, Chennai, Tamil Nadu 600013, India",13.1113174,80.2939529,premise,Arathoon Road,600013,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Noble Hospital,No.04 Audiappa Street Purasawalkam,600078,8608589777,No.04 Audiappa Street Purasawalkam,Ok,"4, Audiappa St, Purasaiwakkam, Chennai, Tamil Nadu 600084, India",13.0817901,80.2512335,premise,Audiappa Street,600084,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Orthomed Hospital Pvt Ltd,83 Old No 43 Roya Pettah High Road,600014,04428113122,83 Old No 43 Roya Pettah High Road,"Ok, partial match","20/43, Royapettah, Chennai, Tamil Nadu 600014, India",13.0584409,80.2716596,premise,,600014,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Parvathy Ortho Hospital Private Limited,"No.241, G.S.T. Rd, Chromepet, Kanchipuram",600044,04422382248,"No.241, G.S.T. Rd, Chromepet, Kanchipuram",Ok,"241, Grand Southern Trunk Rd, near MIT Bridge, Kamakshi Colony, Chromepet, Chennai, Tamil Nadu 600044, India",12.9458698,80.1365669,premise,Grand Southern Trunk Road,600044,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Ponamalligai Hospital Pvt. Ltd.,"1 Kakkan Nagar Main Road, Adambakkam",600088,9884020980,"1 Kakkan Nagar Main Road, Adambakkam",Ok,"1, Kakkan Nagar Main Rd, Ex Serviceman Colony, Kakkan Nagar, Adambakkam, Chennai, Tamil Nadu 600088, India",12.991573,80.2056943,subpremise,Kakkan Nagar Main Road,600088,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Prime Indian Hospitals Pvt Ltd,"1051, P.H. Road",600106,044 -23639999,"1051, P.H. Road",Ok,"1051, Poonamallee High Rd, Amaravathi Nagar, Arumbakkam, Chennai, Tamil Nadu 600106, India",13.076787,80.205881,street_address,Poonamallee High Road,600106,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Rakshith Hospital,"153, Arcot Road, Valasaravakkam, Chennai",600087,04442729999,"153, Arcot Road, Valasaravakkam, Chennai",Ok,"153, Arcot Rd, Subramanya Swamy Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087, India",13.0406369,80.1725864,premise,Arcot Road,600087,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Rathi Med Speciality Hospital,"Q- 102, 3Rd Avenue, Anna Nagar",600040,9841447007,"Q- 102, 3Rd Avenue, Anna Nagar",Ok,"q, Q/102, 3rd Ave, Block Q, Anna Nagar, Chennai, Tamil Nadu 600040, India",13.0916766,80.2179707,subpremise,3rd Avenue,600040,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Right Hospitals,"1, Prof. Subramaniam Street, Kilpauk",600010,9500037647,"1, Prof. Subramaniam Street, Kilpauk",Ok,"1, Professor Subramaniam St, Chetpet, Chennai, Tamil Nadu 600008, India",13.0789033,80.2403136,street_address,Professor Subramaniam Street,600008,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Rmd Specialities Hospital,NO:162 Parvathinagar Amarambedu Kancheepuram.,600069,6381148423,NO:162 Parvathinagar Amarambedu Kancheepuram.,"3 found, use single geocode.","Amarambedu, Tamil Nadu, India",12.9435483,79.9947956,"locality, political",,,Amarambedu,India,Tamil Nadu
+Tamil Nadu,Chennai,Royal Balaaji Hospitals,"No.: 7, Clc Works Road, Chromepet Chennai Kanchipuram Tamilnadu
+600044",600044,04422412010,"No.: 7, Clc Works Road, Chromepet Chennai Kanchipuram Tamilnadu
+600044",Ok,"7, CLC Works Rd, Pallavapuram, New Colony, Chromepet, Chennai, Tamil Nadu 600044, India",12.953034,80.1397075,street_address,CLC Works Road,600044,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sakthi Hospital And Research Centre,"175, Big Street, Triplicane,",600005,"4,42,84,42,626","175, Big Street, Triplicane,",Ok,"175, Big St, Police Quarters, Triplicane, Chennai, Tamil Nadu 600005, India",13.0570046,80.2757396,street_address,Big Street,600005,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Saraswathy Multi Speciality Hospital,"No.92 /A , Bazaar Road , Sadasivam  Road , Madipakkam , Chennai- 600091.
+Tamilnadu",600091,"9790785916/0444860160
+3","No.92 /A , Bazaar Road , Sadasivam Road , Madipakkam , Chennai- 600091.
+Tamilnadu","2 found, use single geocode.","Bazaar Main Rd, Madipakkam, Chennai, Tamil Nadu 600091, India",12.9652984,80.2062463,route,Bazaar Main Road,600091,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Selvarangam Hospital,C-54 1 St Main Road Anna Nagar Chennai Tamilnadu 600102,600102,9677451609/9551663530,C-54 1 St Main Road Anna Nagar Chennai Tamilnadu 600102,Ok,"c, 54, Vasantham Colony 1st Main Rd, Vasantham Colony, Anna Nagar, Chennai, Tamil Nadu 600040, India",13.0954546,80.2044333,subpremise,Vasantham Colony 1st Main Road,600040,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sen Hospital,"18 Bunder Garden Street, Perambur",600011,04442769724,"18 Bunder Garden Street, Perambur",Ok,"18, Bunder Garden St, Bunder Garden, Perambur, Chennai, Tamil Nadu 600011, India",13.111749,80.2417865,street_address,Bunder Garden Street,600011,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sooriya Hospital,"No-1, Arunachalam Road, Saligramam",600093,04423761750,"No-1, Arunachalam Road, Saligramam",Ok,"1, Arunachalam Rd, Said Nagar, Shanthi Nagar, Saligramam, Chennai, Tamil Nadu 600093, India",13.0567568,80.2003325,street_address,Arunachalam Road,600093,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Soundarapandian Bone And Joint Hospital And Research Institute Pvt Ltd,"Aa-16, 3Rd Main Rd, Anna Nagar",600040,04442066667,"Aa-16, 3Rd Main Rd, Anna Nagar","Ok, partial match","16, Anna Nagar 3rd Main Rd, Anna Nagar, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040, India",13.090581,80.2153809,street_address,Anna Nagar 3rd Main Road,600040,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sri Ramachandra Hospital,"No.01, Ramachandra Nagar Porur Chennai",600116,04440012345,"No.01, Ramachandra Nagar Porur Chennai",Ok,"Sri Ramachandra Auditorium, SRI RAMACHANDRA INSTITUTE OF HIGHER EDUCATION AND RESEARCH, 1, Sri Ramachandra Nagar, Porur, Chennai, Tamil Nadu 600116, India",13.0379224,80.1402596,premise,,600116,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sri Venkateshwara'S C. M. Hospital,"No. 1, 47Th Street, 5Th Main Road",600061,9962778666,"No. 1, 47Th Street, 5Th Main Road","Ok, partial match","1 W 47th St #5th, New York, NY 10036, USA",40.7571116,-73.9792918,subpremise,West 47th Street,10036,New York,United States,New York
+Tamil Nadu,Chennai,Srm Institutes For Medical Science (Sims),"No.1, Jawaharlal Nehru Salai (100 Ft Road), Vadapalani",600026,04443969995,"No.1, Jawaharlal Nehru Salai (100 Ft Road), Vadapalani","Ok, partial match","100 Feet Rd & 100 Feet Rd, Velachery, Chennai, Tamil Nadu 600042, India",12.9754604,80.2207071,intersection,,600042,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,St Isabels Hospital,"49, Oliver Road, Musiri Subramaniam Rd Next to Luz Church, Mylapore",600004,04424991081/82/83,"49, Oliver Road, Musiri Subramaniam Rd Next to Luz Church, Mylapore","Ok, partial match","49, Oliver Rd, next to Luz Church, Kattukoil Garden, Mylapore, Chennai, Tamil Nadu 600004, India",13.0392713,80.2618376,street_address,Oliver Road,600004,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Star Bone Joint Centre,New NO 158 Old No 264 Triplicane High Road,600005,04442061992,New NO 158 Old No 264 Triplicane High Road,"Ok, partial match","264, Triplicane High Rd, Indra Nagar, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600014, India",13.0649005,80.2739906,street_address,Triplicane High Road,600014,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sudar Hospitals,Sudar hospitals 30 Ayyasamy Street Nehru Nagar Chromepet,600045,9941570570,Sudar hospitals 30 Ayyasamy Street Nehru Nagar Chromepet,"2 found, use single geocode.","30, Ayyasamy St, Nehru Nagar, Chromepet, Chennai, Tamil Nadu 600044, India",12.9429751,80.1419967,subpremise,Ayyasamy Street,600044,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Sugam Hospital,"No.349, Thivvottiyur High Road, Thiruvvotiyur",600019,04440506070,"No.349, Thivvottiyur High Road, Thiruvvotiyur","Ok, partial match","349, Thiruvottiyur High Rd, Tiruvottiyur, Chennai, Tamil Nadu 600019, India",13.1683515,80.3044245,street_address,Thiruvottiyur High Road,600019,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Tagore Medical College & Hospital,"Rathinamangalam, Melakkottaiyur Post",600127,04430101111,"Rathinamangalam, Melakkottaiyur Post","Ok, partial match","Rathinamangalam, Tamil Nadu, India",12.8615603,80.1388654,"locality, political",,,Rathinamangalam,India,Tamil Nadu
+Tamil Nadu,Chennai,The Madras Medical Mission,"AA-Dr Jayalalitha Nagar,Mogappair,",600037,04426568000,"AA-Dr Jayalalitha Nagar,Mogappair,","Ok, partial match","J J Nagar, Mogappair East, Chennai, Tamil Nadu, India",13.0859506,80.1833217,"political, sublocality, sublocality_level_2",,,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Vanaja Hospital,"#4/198, M.A Koil Street, M.A Nagar, Redhills",600052,044 2632 2713,"#4/198, M.A Koil Street, M.A Nagar, Redhills","Ok, partial match","M.A.Nagar, Padianallur, Tamil Nadu 600052, India",13.2002927,80.174254,"political, sublocality, sublocality_level_3",,600052,Padianallur,India,Tamil Nadu
+Tamil Nadu,Chennai,Vasantha Subramanian Hospitals Pvt Ltd,"13, East Spurtank Road Chetpet",600031,04442001000,"13, East Spurtank Road Chetpet",Ok,"13, E Spur Tank Rd, Sulaiman Zackria Avenue, Chetpet, Chennai, Tamil Nadu 600031, India",13.0721168,80.2518381,street_address,East Spur Tank Road,600031,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Velachery K. S. Hospital,"No. 14, 10Th, Cross Street, A. G. S Coloy, Velachery, Chennai",600042,9962022522,"No. 14, 10Th, Cross Street, A. G. S Coloy, Velachery, Chennai",Ok,"14, 10th Cross St, Nethaji Colony, Rajiv Nagar, Velachery, Chennai, Tamil Nadu 600042, India",12.9822906,80.2125613,street_address,10th Cross Street,600042,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Vihaa Hospital,"No 5 E-block,3rd Avenue,Anna nagar east",600102,9710400000,"No 5 E-block,3rd Avenue,Anna nagar east",Ok,"H-5, 3rd Ave, Block H, Annanagar East, Chennai, Tamil Nadu 600102, India",13.089183,80.218447,street_address,3rd Avenue,600102,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,"Vijaya Medical And Education Trust ( Unit O
+Vijaya Hospital , Vijaya Health Centre , Vijaya Heart Foundation )","Old no. 180, New no. 434 NSK salai, 323 Arcod Road, Vadapalani",600026,04466616661,"Old no. 180, New no. 434 NSK salai, 323 Arcod Road, Vadapalani","2 found, use single geocode.","323, Arcot Rd, Vadapalani, Chennai, Tamil Nadu 600026, India",13.0500723,80.2117106,street_address,Arcot Road,600026,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Vinita Hospital,"70 Josier Street,Tirumurthy Nagar,Nunganbakkam",600034,04425548287,"70 Josier Street,Tirumurthy Nagar,Nunganbakkam",Ok,"70, Josier St, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",13.054457,80.245372,street_address,Josier Street,600034,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,Xcellent Care Super-Speciality Hospital Pvt   Ltd,"No. 7/14, 7Th Cross Street, Rajalakshmi Nagar, Velachery, Chennai, Tamilnadu",600042,04440000006,"No. 7/14, 7Th Cross Street, Rajalakshmi Nagar, Velachery, Chennai, Tamilnadu",Ok,"7/1A, 7th Cross Street, near Andhra Bank, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",12.985656,80.2182439,street_address,7th Cross Street,600042,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai,A4 Hospital,"No-87 Arcot Road,Virugambakkam chennai",600092,044 - 42952244,"No-87 Arcot Road,Virugambakkam chennai",Ok,"Surya Apartment Ews, SURYA APARTMENT, 87, Arcot Rd, next to Avichi School, AVM Nagar, Saligramam, Chennai, Tamil Nadu 600093, India",13.0476913,80.1963549,premise,Arcot Road,600093,Chennai,India,Tamil Nadu
+Tamil Nadu,Chennai City Corporation,Rainbow Childrens Medicare Private Limite,"No. 157, Annasalai, Guindy,\\\\Nchennai d
+&Amp;Ndash; 600015.\\\\Ntamilnadu.",600015,04440122444,"No. 157, Annasalai, Guindy,\\\\Nchennai d
+&Amp;Ndash; 600015.\\\\Ntamilnadu.","Ok, partial match","157, Anna Salai, Little Mount, Guindy, Chennai, Tamil Nadu 600015, India",13.0139913,80.2226464,premise,Anna Salai,600015,Chennai,India,Tamil Nadu
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
